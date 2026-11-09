@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "k0601"
+secret: "nmm2dsr0"
+owner:
+  username: "sentokun089"
+  id: 335909507
+  accepted_at: "2026-11-09T03:00:25Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0601-sum_for"
+  branch: "main"
